@@ -1,6 +1,6 @@
 "use client";
 
-import { serverSidefunction } from "../utils/server-utils";
+import { serverSidefunction } from "../app/utils/server-utils";
 
 import React from 'react';
 import Slider from 'react-slick';

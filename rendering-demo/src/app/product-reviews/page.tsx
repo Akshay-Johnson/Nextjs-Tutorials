@@ -1,6 +1,6 @@
 import { Suspense } from "react";
-import {Product} from "../components/product";
-import {Review} from "../components/review";
+import {Product} from "../../components/product";
+import {Review} from "../../components/review";
 
 export default function ProductReviewsPage() {
     return (
